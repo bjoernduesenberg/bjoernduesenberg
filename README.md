@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Björn Düsenberg
-- 👀 I’m interested in R programming and Data Science in general
-- 🌱 I’m currently learning R and SQL
+- 👀 I’m interested in R programming, python and Data Science in general
+- 🌱 I’m currently learning R, python and SQL
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: www.linkedin.com/in/bjoern-duesenberg
 
