@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Björn Düsenberg
-- 👀 I’m interested in C/C++, and R programming.
-- 🌱 I’m currently learning C/C++ for the use in microcontrollers like the Arduino and R for data science and analytics.
+- 👀 I’m interested in Python, C/C++ and R programming.
+- 🌱 I’m currently learning 
+  - Python for general programming purposes and data science 
+  - C/C++ for the use in microcontrollers like the Arduino
+  - R for data science and analytics.
 - 📫 How to reach me: www.linkedin.com/in/bjoern-duesenberg
 
 <!---
